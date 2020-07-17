@@ -1,5 +1,4 @@
-# propertyassessments
-## Massachusetts Property Assessment Analysis
+# Massachusetts Property Assessment Analysis
 
 ### Outline of Folders:
 - ACS2018/: raw demographic data from the ACS 2014-2018 5-year estimates
